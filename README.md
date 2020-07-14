@@ -38,7 +38,7 @@ Property Listing Website is a simple PHP script based on Laravel that helps you 
 
 
 ### Install
-01. `git clone https://github.com/parvez-git/real-estate.git`
+01. `git clone https://github.com/nuestrovincent/Property-Listing.git'
 02. `cd real-estate`
 03. `composer install`
 04. `cp .env.example .env`
